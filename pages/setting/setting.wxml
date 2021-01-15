@@ -1,0 +1,4 @@
+<!--pages/setting/setting.wxml-->
+<text>pages/setting/setting.wxml</text>
+<app-tab-bar id="tabBar"></app-tab-bar>
+
